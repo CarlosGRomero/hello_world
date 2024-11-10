@@ -1,11 +1,13 @@
 {
-  "name": "hello-world-app",
+  "name": "my-nodejs-app",
   "version": "1.0.0",
-  "description": "",
+  "description": "A basic Node.js application",
   "main": "app.js",
   "scripts": {
     "start": "node app.js"
   },
+  "author": "Carlos Romero",
+  "license": "ISC",
   "dependencies": {
     "express": "^4.17.1"
   }
